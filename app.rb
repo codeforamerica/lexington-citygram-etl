@@ -1,10 +1,10 @@
+require 'dotenv';Dotenv.load
 require 'sinatra'
 require 'json'
 require 'sequel'
 
-# get '/code_enforcement' do
-get '/' do
-  DB = Sequel.connect('postgres://erik:@localhost/geocode_code_enforcement')
+get '/code_enforcement' do
+  DB = Sequel.connect(ENV['DATABASE_URL'])
   cases = DB.from(:code_enforcement)
 
   features = cases.order(:StatusDate).reverse().limit(300).all.map do |item|
@@ -22,5 +22,7 @@ get '/' do
       'properties' => item.merge('title' => title)
     }
   end
+
+  content_type :json
   JSON.pretty_generate({'type' => 'FeatureCollection', 'features' => features})
 end
