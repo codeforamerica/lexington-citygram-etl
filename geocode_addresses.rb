@@ -22,6 +22,7 @@ def geocode(file)
   output_headers = true
 
   CSV.foreach(file, headers: true) do |row|
+    next if (row["Address"]).nil?
     hits = search_for(row["Address"])
     match = hits['hits'].first['_source']
     parcel_id = match["PVANUM"]
