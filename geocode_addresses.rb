@@ -2,37 +2,51 @@ require 'csv'
 require 'elasticsearch'
 require 'sequel'
 
-# Connect to localhost:9200 by default:
-es = Elasticsearch::Client.new
-
 DB = Sequel.connect('postgres://erik:@localhost/geocode_code_enforcement')
-parcels = DB.from(:parcels)
+# Execute as shell script if invoked directly.
+# Connect to localhost:9200 by default:
+ES = Elasticsearch::Client.new
 
-def search_for(es, address)
-
-  results = es.search index: 'addresses',
+def search_for(address)
+  results = ES.search index: 'addresses',
     body: {query: {query_string:
       {default_field: "ADDRESS",
        query: address.gsub("/", " ")}}}
   results["hits"]
 end
 
-output_headers = true
 
-CSV.foreach('/Users/erik/code/citygram_data/code-enforcement-2014.csv', headers: true) do |row|
-  hits = search_for(es, row["Address"])
-  match = hits['hits'].first['_source']
-  parcel_id = match["PVANUM"]
-  parcel = parcels.where('"PVANUM" = ?', parcel_id.to_i).first
+def geocode(file)
+  parcels = DB.from(:parcels)
 
-  row[:parcel_id] = parcel_id
-  row[:lat] = parcel[:X]
-  row[:long] = parcel[:Y]
+  output_headers = true
 
-  if output_headers
-    CSV { |csv_out| csv_out << row.headers }
-    output_headers = false
+  CSV.foreach(file, headers: true) do |row|
+    hits = search_for(row["Address"])
+    match = hits['hits'].first['_source']
+    parcel_id = match["PVANUM"]
+    parcel = parcels.where('"PVANUM" = ?', parcel_id.to_i).first
+
+    row[:parcel_id] = parcel_id
+    row[:lat] = parcel[:X]
+    row[:long] = parcel[:Y]
+
+    if output_headers
+      CSV { |csv_out| csv_out << row.headers }
+      output_headers = false
+    end
+
+    CSV { |csv_out| csv_out << row }
+  end
+end
+
+if caller.empty?
+  source_file = ARGV[0]
+
+  if source_file.nil? || source_file.empty?
+    puts "Usage: #{__FILE__} <csv_file>"
+    exit 1
   end
 
-  CSV { |csv_out| csv_out << row }
+  geocode(source_file)
 end
