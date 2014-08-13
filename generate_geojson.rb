@@ -8,7 +8,6 @@ cases = DB.from(:building_permits)
 features = cases.order(:Date).reverse().limit(50).all.map do |item|
   title = "#{item[:PermitType]} building permit filed at #{item[:Address]} by #{item[:Contractor]}"
   {
-    'id' => item[:ID],
     'type' => 'Feature',
     'geometry' => {
       'type' => 'Point',

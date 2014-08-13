@@ -10,7 +10,6 @@ get '/code_enforcement' do
   features = cases.order(:StatusDate).reverse().limit(50).all.map do |item|
     title = "Code Enforcement case status updated to '#{item[:Status]}'"
     {
-      'id' => item[:CaseNo],
       'type' => 'Feature',
       'geometry' => {
         'type' => 'Point',
@@ -29,5 +28,5 @@ end
 
 get '/building_permits' do
   content_type :json
-  File.read('building_permits.json')
+  JSON.load(File.open('building_permits.json'))
 end
