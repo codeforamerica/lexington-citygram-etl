@@ -21,4 +21,4 @@ features = cases.order(:Date).reverse().limit(50).all.map do |item|
   }
 end
 
-p JSON.pretty_generate({'type' => 'FeatureCollection', 'features' => features})
+p JSON.generate({'type' => 'FeatureCollection', 'features' => features})
