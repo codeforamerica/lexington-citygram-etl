@@ -1,0 +1,1255 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 174619,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5559765242668,
+          38.0827129331891
+        ]
+      },
+      "properties": {
+        "ID": 174619,
+        "Date": "2020-03-01",
+        "Address": "2761 BURNT MILL RD",
+        "Suite": null,
+        "PermitType": "GRADING RESIDENTIAL",
+        "ConstructionCost": 0.0,
+        "OwnerName": "HARMONY HOME BUILDERS AKA  ANDERSON COMMUNITIES",
+        "Contractor": "HARMONY HOME BUILDERS AKA ANDERSON COMMUNITIES",
+        "parcel_id": "38187880",
+        "lat": -84.5559765242668,
+        "long": 38.0827129331891,
+        "title": "GRADING RESIDENTIAL building permit filed at 2761 BURNT MILL RD by HARMONY HOME BUILDERS AKA ANDERSON COMMUNITIES"
+      }
+    },
+    {
+      "id": 174166,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5267016908322,
+          38.0964497237461
+        ]
+      },
+      "properties": {
+        "ID": 174166,
+        "Date": "2020-02-28",
+        "Address": "2361 MULUNDY WAY",
+        "Suite": null,
+        "PermitType": "GRADING RESIDENTIAL",
+        "ConstructionCost": 0.0,
+        "OwnerName": "THE BRIGGS COMPANY",
+        "Contractor": "THE BRIGGS COMPANY",
+        "parcel_id": "38145570",
+        "lat": -84.5267016908322,
+        "long": 38.0964497237461,
+        "title": "GRADING RESIDENTIAL building permit filed at 2361 MULUNDY WAY by THE BRIGGS COMPANY"
+      }
+    },
+    {
+      "id": 174436,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5638346348253,
+          38.0434610641126
+        ]
+      },
+      "properties": {
+        "ID": 174436,
+        "Date": "2020-02-25",
+        "Address": "4104 JOHN ALDEN LN",
+        "Suite": null,
+        "PermitType": "GRADING RESIDENTIAL",
+        "ConstructionCost": 0.0,
+        "OwnerName": "SHAEFER HOMES INC",
+        "Contractor": "SCHAEFER HOMES INC",
+        "parcel_id": "21245300",
+        "lat": -84.5638346348253,
+        "long": 38.0434610641126,
+        "title": "GRADING RESIDENTIAL building permit filed at 4104 JOHN ALDEN LN by SCHAEFER HOMES INC"
+      }
+    },
+    {
+      "id": 180996,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5568150866235,
+          38.0265678833955
+        ]
+      },
+      "properties": {
+        "ID": 180996,
+        "Date": "2014-08-04",
+        "Address": "2187 HARRODSBURG RD",
+        "Suite": null,
+        "PermitType": "RESTAURANT",
+        "ConstructionCost": 600169.8,
+        "OwnerName": "CITY BARBEQUE",
+        "Contractor": "EQUITEAM, LLC",
+        "parcel_id": "11085550",
+        "lat": -84.5568150866235,
+        "long": 38.0265678833955,
+        "title": "RESTAURANT building permit filed at 2187 HARRODSBURG RD by EQUITEAM, LLC"
+      }
+    },
+    {
+      "id": 180316,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.535602555143,
+          38.0256093460576
+        ]
+      },
+      "properties": {
+        "ID": 180316,
+        "Date": "2014-07-29",
+        "Address": "2012 HARRODSBURG RD",
+        "Suite": null,
+        "PermitType": "RESTAURANT",
+        "ConstructionCost": 650209.6,
+        "OwnerName": "MCDONALDS REAL ESTATE CO.",
+        "Contractor": "MARK L INC",
+        "parcel_id": "38253970",
+        "lat": -84.535602555143,
+        "long": 38.0256093460576,
+        "title": "RESTAURANT building permit filed at 2012 HARRODSBURG RD by MARK L INC"
+      }
+    },
+    {
+      "id": 177493,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5265123303637,
+          38.0670046032892
+        ]
+      },
+      "properties": {
+        "ID": 177493,
+        "Date": "2014-07-16",
+        "Address": "1620 LEESTOWN RD",
+        "Suite": null,
+        "PermitType": "MECHANICAL COMM. $10,001-$25,000",
+        "ConstructionCost": 15800.0,
+        "OwnerName": "ARCHLAND PROP",
+        "Contractor": "MORRIS HEATING AND COOLING",
+        "parcel_id": "20057860",
+        "lat": -84.5265123303637,
+        "long": 38.0670046032892,
+        "title": "MECHANICAL COMM. $10,001-$25,000 building permit filed at 1620 LEESTOWN RD by MORRIS HEATING AND COOLING"
+      }
+    },
+    {
+      "id": 180914,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5280346404078,
+          37.9879446002362
+        ]
+      },
+      "properties": {
+        "ID": 180914,
+        "Date": "2014-07-02",
+        "Address": "3555 NICHOLASVILLE RD",
+        "Suite": null,
+        "PermitType": "MECHANICAL COMM. $800,001-$900,000",
+        "ConstructionCost": 847550.0,
+        "OwnerName": "CBL & ASSOCIATES PROPERTIES",
+        "Contractor": "FREI PLUMBING INC",
+        "parcel_id": "15702275",
+        "lat": -84.5280346404078,
+        "long": 37.9879446002362,
+        "title": "MECHANICAL COMM. $800,001-$900,000 building permit filed at 3555 NICHOLASVILLE RD by FREI PLUMBING INC"
+      }
+    },
+    {
+      "id": 180421,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.471037449619,
+          38.0637980961161
+        ]
+      },
+      "properties": {
+        "ID": 180421,
+        "Date": "2014-06-19",
+        "Address": "1532 N LIMESTONE",
+        "Suite": "BLDG 3",
+        "PermitType": "GENERAL WAREHOUSE",
+        "ConstructionCost": 120000.0,
+        "OwnerName": "WALLER PROPERTIES",
+        "Contractor": "WALLER PROPERTIES",
+        "parcel_id": "44441600",
+        "lat": -84.471037449619,
+        "long": 38.0637980961161,
+        "title": "GENERAL WAREHOUSE building permit filed at 1532 N LIMESTONE by WALLER PROPERTIES"
+      }
+    },
+    {
+      "id": 180814,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5292093910634,
+          37.990255929352
+        ]
+      },
+      "properties": {
+        "ID": 180814,
+        "Date": "2014-06-11",
+        "Address": "3401 NICHOLASVILLE RD",
+        "Suite": "STE 300",
+        "PermitType": "RETAIL SALES REMODELING",
+        "ConstructionCost": 362000.0,
+        "OwnerName": "NEW YORK & CO.",
+        "Contractor": "DUGAN BUILDING COMPANY",
+        "parcel_id": "13863185",
+        "lat": -84.5292093910634,
+        "long": 37.990255929352,
+        "title": "RETAIL SALES REMODELING building permit filed at 3401 NICHOLASVILLE RD by DUGAN BUILDING COMPANY"
+      }
+    },
+    {
+      "id": 180775,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4012526836438,
+          37.9903843905588
+        ]
+      },
+      "properties": {
+        "ID": 180775,
+        "Date": "2014-06-04",
+        "Address": "840 HAYS BLVD",
+        "Suite": "bldg 2",
+        "PermitType": "APARTMENTS",
+        "ConstructionCost": 1588000.0,
+        "OwnerName": "RML APTS. AT GESS PROP.",
+        "Contractor": "R M L CONSTRUCTION LLC",
+        "parcel_id": "38224200",
+        "lat": -84.4012526836438,
+        "long": 37.9903843905588,
+        "title": "APARTMENTS building permit filed at 840 HAYS BLVD by R M L CONSTRUCTION LLC"
+      }
+    },
+    {
+      "id": 180778,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4012526836438,
+          37.9903843905588
+        ]
+      },
+      "properties": {
+        "ID": 180778,
+        "Date": "2014-06-04",
+        "Address": "840 HAYS BLVD",
+        "Suite": "bldg 7",
+        "PermitType": "APARTMENTS",
+        "ConstructionCost": 1386000.0,
+        "OwnerName": "RML APTS. AT GESS PROP.",
+        "Contractor": "R M L CONSTRUCTION LLC",
+        "parcel_id": "38224200",
+        "lat": -84.4012526836438,
+        "long": 37.9903843905588,
+        "title": "APARTMENTS building permit filed at 840 HAYS BLVD by R M L CONSTRUCTION LLC"
+      }
+    },
+    {
+      "id": 180761,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4012526836438,
+          37.9903843905588
+        ]
+      },
+      "properties": {
+        "ID": 180761,
+        "Date": "2014-06-04",
+        "Address": "840 HAYS BLVD",
+        "Suite": "bldg 4",
+        "PermitType": "APARTMENTS",
+        "ConstructionCost": 1588000.0,
+        "OwnerName": "RML APTS. AT GESS PROP.",
+        "Contractor": "R M L CONSTRUCTION LLC",
+        "parcel_id": "38224200",
+        "lat": -84.4012526836438,
+        "long": 37.9903843905588,
+        "title": "APARTMENTS building permit filed at 840 HAYS BLVD by R M L CONSTRUCTION LLC"
+      }
+    },
+    {
+      "id": 180768,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4012526836438,
+          37.9903843905588
+        ]
+      },
+      "properties": {
+        "ID": 180768,
+        "Date": "2014-06-04",
+        "Address": "840 HAYS BLVD",
+        "Suite": "bldg 5",
+        "PermitType": "APARTMENTS",
+        "ConstructionCost": 1588000.0,
+        "OwnerName": "RML APTS.AT GESS PROP.",
+        "Contractor": "R M L CONSTRUCTION LLC",
+        "parcel_id": "38224200",
+        "lat": -84.4012526836438,
+        "long": 37.9903843905588,
+        "title": "APARTMENTS building permit filed at 840 HAYS BLVD by R M L CONSTRUCTION LLC"
+      }
+    },
+    {
+      "id": 180765,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4012526836438,
+          37.9903843905588
+        ]
+      },
+      "properties": {
+        "ID": 180765,
+        "Date": "2014-06-04",
+        "Address": "840 HAYS BLVD",
+        "Suite": "bldg 3",
+        "PermitType": "APARTMENTS",
+        "ConstructionCost": 1588000.0,
+        "OwnerName": "RML APTS. AT GESS PROP.",
+        "Contractor": "R M L CONSTRUCTION LLC",
+        "parcel_id": "38224200",
+        "lat": -84.4012526836438,
+        "long": 37.9903843905588,
+        "title": "APARTMENTS building permit filed at 840 HAYS BLVD by R M L CONSTRUCTION LLC"
+      }
+    },
+    {
+      "id": 180759,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4012526836438,
+          37.9903843905588
+        ]
+      },
+      "properties": {
+        "ID": 180759,
+        "Date": "2014-06-04",
+        "Address": "840 HAYS BLVD",
+        "Suite": "bldg 1",
+        "PermitType": "APARTMENTS",
+        "ConstructionCost": 1588000.0,
+        "OwnerName": "RML APTS. AT GESS PROP.",
+        "Contractor": "R M L CONSTRUCTION LLC",
+        "parcel_id": "38224200",
+        "lat": -84.4012526836438,
+        "long": 37.9903843905588,
+        "title": "APARTMENTS building permit filed at 840 HAYS BLVD by R M L CONSTRUCTION LLC"
+      }
+    },
+    {
+      "id": 180773,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4012526836438,
+          37.9903843905588
+        ]
+      },
+      "properties": {
+        "ID": 180773,
+        "Date": "2014-06-04",
+        "Address": "840 HAYS BLVD",
+        "Suite": "bldg 6",
+        "PermitType": "APARTMENTS",
+        "ConstructionCost": 1386000.0,
+        "OwnerName": "RML APTS. AT GESS PROP.",
+        "Contractor": "R M L CONSTRUCTION LLC",
+        "parcel_id": "38224200",
+        "lat": -84.4012526836438,
+        "long": 37.9903843905588,
+        "title": "APARTMENTS building permit filed at 840 HAYS BLVD by R M L CONSTRUCTION LLC"
+      }
+    },
+    {
+      "id": 170142,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3919832031822,
+          38.0192711379755
+        ]
+      },
+      "properties": {
+        "ID": 170142,
+        "Date": "2014-06-03",
+        "Address": "3105 BLACKFORD PKWY",
+        "Suite": null,
+        "PermitType": "GRADING RESIDENTIAL",
+        "ConstructionCost": 0.0,
+        "OwnerName": "BALL HOMES",
+        "Contractor": "BALL HOMES INC",
+        "parcel_id": "38196180",
+        "lat": -84.3919832031822,
+        "long": 38.0192711379755,
+        "title": "GRADING RESIDENTIAL building permit filed at 3105 BLACKFORD PKWY by BALL HOMES INC"
+      }
+    },
+    {
+      "id": 180868,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4618589142663,
+          38.0073080069781
+        ]
+      },
+      "properties": {
+        "ID": 180868,
+        "Date": "2014-05-29",
+        "Address": "727 MALLARD BAY",
+        "Suite": null,
+        "PermitType": "FENCE, RESIDENTIAL",
+        "ConstructionCost": 14000.0,
+        "OwnerName": "MR. BELLO",
+        "Contractor": "LAWNS BY LICHTEFELD",
+        "parcel_id": "16804625",
+        "lat": -84.4618589142663,
+        "long": 38.0073080069781,
+        "title": "FENCE, RESIDENTIAL building permit filed at 727 MALLARD BAY by LAWNS BY LICHTEFELD"
+      }
+    },
+    {
+      "id": 176319,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.413937974072,
+          37.9859023568821
+        ]
+      },
+      "properties": {
+        "ID": 176319,
+        "Date": "2014-05-22",
+        "Address": "480 CHILESBURG RD",
+        "Suite": null,
+        "PermitType": "GRADING RESIDENTIAL",
+        "ConstructionCost": 0.0,
+        "OwnerName": "BALL HOMES",
+        "Contractor": "BALL HOMES INC",
+        "parcel_id": "22616400",
+        "lat": -84.413937974072,
+        "long": 37.9859023568821,
+        "title": "GRADING RESIDENTIAL building permit filed at 480 CHILESBURG RD by BALL HOMES INC"
+      }
+    },
+    {
+      "id": 176318,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4073315355714,
+          37.9889360293591
+        ]
+      },
+      "properties": {
+        "ID": 176318,
+        "Date": "2014-05-22",
+        "Address": "400 CHILESBURG RD",
+        "Suite": null,
+        "PermitType": "GRADING RESIDENTIAL",
+        "ConstructionCost": 0.0,
+        "OwnerName": "BALL HOMES",
+        "Contractor": "BALL HOMES INC",
+        "parcel_id": "22357800",
+        "lat": -84.4073315355714,
+        "long": 37.9889360293591,
+        "title": "GRADING RESIDENTIAL building permit filed at 400 CHILESBURG RD by BALL HOMES INC"
+      }
+    },
+    {
+      "id": 180476,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4908726835954,
+          37.9777641350993
+        ]
+      },
+      "properties": {
+        "ID": 180476,
+        "Date": "2014-05-14",
+        "Address": "1171 APPIAN CROSSING WAY",
+        "Suite": "BLDG 6",
+        "PermitType": "APARTMENTS",
+        "ConstructionCost": 200000.0,
+        "OwnerName": "ARNOLD PROPERTIES",
+        "Contractor": "GATEWOOD ARNOLD CONSTRUCTION INC",
+        "parcel_id": "38204070",
+        "lat": -84.4908726835954,
+        "long": 37.9777641350993,
+        "title": "APARTMENTS building permit filed at 1171 APPIAN CROSSING WAY by GATEWOOD ARNOLD CONSTRUCTION INC"
+      }
+    },
+    {
+      "id": 180492,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5987132431038,
+          38.0329625384924
+        ]
+      },
+      "properties": {
+        "ID": 180492,
+        "Date": "2014-05-14",
+        "Address": "4029 AIRPORT RD",
+        "Suite": "STE 100",
+        "PermitType": "REMOD. GEN. BUSINESS OFFICE/BLDG.",
+        "ConstructionCost": 10000.0,
+        "OwnerName": "AVIATION MUSEUM OF KENTUCKY, INC",
+        "Contractor": "TRANSITIONS LIFT & ELEVATOR LLC",
+        "parcel_id": "38245170",
+        "lat": -84.5987132431038,
+        "long": 38.0329625384924,
+        "title": "REMOD. GEN. BUSINESS OFFICE/BLDG. building permit filed at 4029 AIRPORT RD by TRANSITIONS LIFT & ELEVATOR LLC"
+      }
+    },
+    {
+      "id": 180471,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4908726835954,
+          37.9777641350993
+        ]
+      },
+      "properties": {
+        "ID": 180471,
+        "Date": "2014-05-14",
+        "Address": "1171 APPIAN CROSSING WAY",
+        "Suite": "BLDG 4",
+        "PermitType": "APARTMENTS",
+        "ConstructionCost": 200000.0,
+        "OwnerName": "ARNOLD PROPERTIES",
+        "Contractor": "GATEWOOD ARNOLD CONSTRUCTION INC",
+        "parcel_id": "38204070",
+        "lat": -84.4908726835954,
+        "long": 37.9777641350993,
+        "title": "APARTMENTS building permit filed at 1171 APPIAN CROSSING WAY by GATEWOOD ARNOLD CONSTRUCTION INC"
+      }
+    },
+    {
+      "id": 179525,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5298875070942,
+          37.9818547967605
+        ]
+      },
+      "properties": {
+        "ID": 179525,
+        "Date": "2014-04-28",
+        "Address": "127 W TIVERTON WAY",
+        "Suite": "STE 146",
+        "PermitType": "RETAIL SALES REMODELING",
+        "ConstructionCost": 900000.0,
+        "OwnerName": "#1739 ROSS DRESS FOR LESS",
+        "Contractor": "DOOLEY & MACK CONSTRUCTORS OF GEORGIA INC",
+        "parcel_id": "22017907",
+        "lat": -84.5298875070942,
+        "long": 37.9818547967605,
+        "title": "RETAIL SALES REMODELING building permit filed at 127 W TIVERTON WAY by DOOLEY & MACK CONSTRUCTORS OF GEORGIA INC"
+      }
+    },
+    {
+      "id": 177391,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5125375171607,
+          38.0500749542778
+        ]
+      },
+      "properties": {
+        "ID": 177391,
+        "Date": "2014-04-24",
+        "Address": "830 DE ROODE ST",
+        "Suite": null,
+        "PermitType": "APARTMENTS",
+        "ConstructionCost": 400000.0,
+        "OwnerName": "A U ASSOCIATES",
+        "Contractor": "A U CONSTRUCTION LLC",
+        "parcel_id": "38254500",
+        "lat": -84.5125375171607,
+        "long": 38.0500749542778,
+        "title": "APARTMENTS building permit filed at 830 DE ROODE ST by A U CONSTRUCTION LLC"
+      }
+    },
+    {
+      "id": 180726,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5211862686145,
+          38.0146565262023
+        ]
+      },
+      "properties": {
+        "ID": 180726,
+        "Date": "2014-04-22",
+        "Address": "258 PLAZA DR",
+        "Suite": "STE 102",
+        "PermitType": "REMODELING RECREATIONAL FACILITY",
+        "ConstructionCost": 1000.0,
+        "OwnerName": "PINK PARTY PALACE",
+        "Contractor": "PINK PARTY PALACE",
+        "parcel_id": "15889600",
+        "lat": -84.5211862686145,
+        "long": 38.0146565262023,
+        "title": "REMODELING RECREATIONAL FACILITY building permit filed at 258 PLAZA DR by PINK PARTY PALACE"
+      }
+    },
+    {
+      "id": 178583,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4040372275098,
+          37.9948026618699
+        ]
+      },
+      "properties": {
+        "ID": 178583,
+        "Date": "2014-04-18",
+        "Address": "817 EAGLES LN",
+        "Suite": null,
+        "PermitType": "FENCE, RESIDENTIAL",
+        "ConstructionCost": 6000.0,
+        "OwnerName": "VALORIE JAMES",
+        "Contractor": "VALORIE JAMES",
+        "parcel_id": "19303730",
+        "lat": -84.4040372275098,
+        "long": 37.9948026618699,
+        "title": "FENCE, RESIDENTIAL building permit filed at 817 EAGLES LN by VALORIE JAMES"
+      }
+    },
+    {
+      "id": 178055,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5007638215673,
+          38.0475801168413
+        ]
+      },
+      "properties": {
+        "ID": 178055,
+        "Date": "2014-04-16",
+        "Address": "300 W VINE ST",
+        "Suite": null,
+        "PermitType": "CO-LOCATE TOWER",
+        "ConstructionCost": 0.0,
+        "OwnerName": "SIRIUS XM RADIO",
+        "Contractor": "PINNACLE WIRELESS USA",
+        "parcel_id": "10130050",
+        "lat": -84.5007638215673,
+        "long": 38.0475801168413,
+        "title": "CO-LOCATE TOWER building permit filed at 300 W VINE ST by PINNACLE WIRELESS USA"
+      }
+    },
+    {
+      "id": 179842,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5014287013291,
+          37.9691045095001
+        ]
+      },
+      "properties": {
+        "ID": 179842,
+        "Date": "2014-04-15",
+        "Address": "4161 TATES CREEK CENTRE DR",
+        "Suite": null,
+        "PermitType": "RESTAURANT",
+        "ConstructionCost": 400095.09,
+        "OwnerName": "STUDIO FOUR DESIGN",
+        "Contractor": "KNOEBEL CONSTRUCTION INC",
+        "parcel_id": "10033810",
+        "lat": -84.5014287013291,
+        "long": 37.9691045095001,
+        "title": "RESTAURANT building permit filed at 4161 TATES CREEK CENTRE DR by KNOEBEL CONSTRUCTION INC"
+      }
+    },
+    {
+      "id": 180916,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4841073615219,
+          38.0570651545248
+        ]
+      },
+      "properties": {
+        "ID": 180916,
+        "Date": "2014-04-11",
+        "Address": "339 N UPPER ST",
+        "Suite": null,
+        "PermitType": "REMOD SCHOOL, EDUC STRUCTURE",
+        "ConstructionCost": 800000.0,
+        "OwnerName": "TRANSYLVANIA UNIVERSITY",
+        "Contractor": "JARBOE CONSTRUCTION INC",
+        "parcel_id": "13388550",
+        "lat": -84.4841073615219,
+        "long": 38.0570651545248,
+        "title": "REMOD SCHOOL, EDUC STRUCTURE building permit filed at 339 N UPPER ST by JARBOE CONSTRUCTION INC"
+      }
+    },
+    {
+      "id": 180494,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.454938112283,
+          38.0715828851002
+        ]
+      },
+      "properties": {
+        "ID": 180494,
+        "Date": "2014-04-04",
+        "Address": "1977 LACLEDE CT",
+        "Suite": null,
+        "PermitType": "FENCE, RESIDENTIAL",
+        "ConstructionCost": 1300.0,
+        "OwnerName": "MR. COMBS",
+        "Contractor": "FAYETTE FENCE COMPANY",
+        "parcel_id": "38059110",
+        "lat": -84.454938112283,
+        "long": 38.0715828851002,
+        "title": "FENCE, RESIDENTIAL building permit filed at 1977 LACLEDE CT by FAYETTE FENCE COMPANY"
+      }
+    },
+    {
+      "id": 180437,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.404279586,
+          37.9948904038606
+        ]
+      },
+      "properties": {
+        "ID": 180437,
+        "Date": "2014-04-04",
+        "Address": "813 EAGLES LN",
+        "Suite": null,
+        "PermitType": "FENCE, RESIDENTIAL",
+        "ConstructionCost": 1900.0,
+        "OwnerName": "MRS. JULIANNE SUTTER",
+        "Contractor": "FAYETTE FENCE COMPANY",
+        "parcel_id": "19303720",
+        "lat": -84.404279586,
+        "long": 37.9948904038606,
+        "title": "FENCE, RESIDENTIAL building permit filed at 813 EAGLES LN by FAYETTE FENCE COMPANY"
+      }
+    },
+    {
+      "id": 175466,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4074178115865,
+          38.0054027371586
+        ]
+      },
+      "properties": {
+        "ID": 175466,
+        "Date": "2014-04-04",
+        "Address": "3435 MCFARLAND LN",
+        "Suite": null,
+        "PermitType": "GRADING RESIDENTIAL",
+        "ConstructionCost": 0.0,
+        "OwnerName": "THE FAIRWAYS @ ANDOVER, LLC",
+        "Contractor": "ALLEN COMPANY INC, THE",
+        "parcel_id": "22184000",
+        "lat": -84.4074178115865,
+        "long": 38.0054027371586,
+        "title": "GRADING RESIDENTIAL building permit filed at 3435 MCFARLAND LN by ALLEN COMPANY INC, THE"
+      }
+    },
+    {
+      "id": 180907,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4870115245433,
+          38.0205538419258
+        ]
+      },
+      "properties": {
+        "ID": 180907,
+        "Date": "2014-03-28",
+        "Address": "319 DUKE RD",
+        "Suite": null,
+        "PermitType": "APARTMENT, REMODELING",
+        "ConstructionCost": 1200.0,
+        "OwnerName": "THE VILLA AT CHEVY CHASE",
+        "Contractor": "THE VILLA AT CHEVY CHASE",
+        "parcel_id": "04018250",
+        "lat": -84.4870115245433,
+        "long": 38.0205538419258,
+        "title": "APARTMENT, REMODELING building permit filed at 319 DUKE RD by THE VILLA AT CHEVY CHASE"
+      }
+    },
+    {
+      "id": 176892,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5520122315749,
+          38.0710647036821
+        ]
+      },
+      "properties": {
+        "ID": 176892,
+        "Date": "2014-03-28",
+        "Address": "689 BYRD THURMAN DR",
+        "Suite": null,
+        "PermitType": "GOVERNMENT BLDG/LOCAL",
+        "ConstructionCost": 4221000.0,
+        "OwnerName": "LFUCG - DIVISION OF WATER QUALITY",
+        "Contractor": "W ROGERS COMPANY",
+        "parcel_id": "38234530",
+        "lat": -84.5520122315749,
+        "long": 38.0710647036821,
+        "title": "GOVERNMENT BLDG/LOCAL building permit filed at 689 BYRD THURMAN DR by W ROGERS COMPANY"
+      }
+    },
+    {
+      "id": 179080,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5292093910634,
+          37.990255929352
+        ]
+      },
+      "properties": {
+        "ID": 179080,
+        "Date": "2014-03-21",
+        "Address": "3401 NICHOLASVILLE RD",
+        "Suite": "STE 400",
+        "PermitType": "RETAIL SALES REMODELING",
+        "ConstructionCost": 500000.0,
+        "OwnerName": "EXPRESS",
+        "Contractor": "DEJAGER CONSTRUCTION INC",
+        "parcel_id": "13863185",
+        "lat": -84.5292093910634,
+        "long": 37.990255929352,
+        "title": "RETAIL SALES REMODELING building permit filed at 3401 NICHOLASVILLE RD by DEJAGER CONSTRUCTION INC"
+      }
+    },
+    {
+      "id": 180927,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5196311278044,
+          38.004557831437
+        ]
+      },
+      "properties": {
+        "ID": 180927,
+        "Date": "2014-03-12",
+        "Address": "2380 NORMAN LN",
+        "Suite": "STE D",
+        "PermitType": "REMODELING RESTAURANT",
+        "ConstructionCost": 227800.0,
+        "OwnerName": "SALSARITA'S/ BILL GIBSON",
+        "Contractor": "SAWYER-ELDER CONSTRUCTION LLC",
+        "parcel_id": "38142270",
+        "lat": -84.5196311278044,
+        "long": 38.004557831437,
+        "title": "REMODELING RESTAURANT building permit filed at 2380 NORMAN LN by SAWYER-ELDER CONSTRUCTION LLC"
+      }
+    },
+    {
+      "id": 180646,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5292093910634,
+          37.990255929352
+        ]
+      },
+      "properties": {
+        "ID": 180646,
+        "Date": "2014-03-10",
+        "Address": "3401 NICHOLASVILLE RD",
+        "Suite": "STE 212",
+        "PermitType": "RETAIL SALES REMODELING",
+        "ConstructionCost": 85000.0,
+        "OwnerName": "HELZBURG DIAMONDS",
+        "Contractor": "WESTWOOD CONTRACTORS, INC",
+        "parcel_id": "13863185",
+        "lat": -84.5292093910634,
+        "long": 37.990255929352,
+        "title": "RETAIL SALES REMODELING building permit filed at 3401 NICHOLASVILLE RD by WESTWOOD CONTRACTORS, INC"
+      }
+    },
+    {
+      "id": 180663,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5280346404078,
+          37.9879446002362
+        ]
+      },
+      "properties": {
+        "ID": 180663,
+        "Date": "2014-03-07",
+        "Address": "3555 NICHOLASVILLE RD",
+        "Suite": null,
+        "PermitType": "RETAIL SALES REMODELING",
+        "ConstructionCost": 14278932.8,
+        "OwnerName": "CBL & ASSOCIATED PROPERTIES",
+        "Contractor": "GRAYCOR",
+        "parcel_id": "15702275",
+        "lat": -84.5280346404078,
+        "long": 37.9879446002362,
+        "title": "RETAIL SALES REMODELING building permit filed at 3555 NICHOLASVILLE RD by GRAYCOR"
+      }
+    },
+    {
+      "id": 180637,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5347827288495,
+          38.0853421500328
+        ]
+      },
+      "properties": {
+        "ID": 180637,
+        "Date": "2014-02-19",
+        "Address": "525 BUCK PL",
+        "Suite": null,
+        "PermitType": "REMODELING WAREHOUSE",
+        "ConstructionCost": 45000.0,
+        "OwnerName": "KALICO PRODUCTS",
+        "Contractor": "ANNIS & DREYER CONSTRUCTION INC",
+        "parcel_id": "38226940",
+        "lat": -84.5347827288495,
+        "long": 38.0853421500328,
+        "title": "REMODELING WAREHOUSE building permit filed at 525 BUCK PL by ANNIS & DREYER CONSTRUCTION INC"
+      }
+    },
+    {
+      "id": 177295,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4524820985024,
+          38.0332617837217
+        ]
+      },
+      "properties": {
+        "ID": 177295,
+        "Date": "2014-02-19",
+        "Address": "1171 E NEW CIRCLE RD",
+        "Suite": null,
+        "PermitType": "AUTOMOBILE DEALERSHIP",
+        "ConstructionCost": 500281.57,
+        "OwnerName": "DRIVE TIME SALES AND FINANCE CORPORATION",
+        "Contractor": "S C CONTRACTING INC",
+        "parcel_id": "23446675",
+        "lat": -84.4524820985024,
+        "long": 38.0332617837217,
+        "title": "AUTOMOBILE DEALERSHIP building permit filed at 1171 E NEW CIRCLE RD by S C CONTRACTING INC"
+      }
+    },
+    {
+      "id": 180685,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4959266933524,
+          38.0565748253903
+        ]
+      },
+      "properties": {
+        "ID": 180685,
+        "Date": "2014-02-19",
+        "Address": "485 W FOURTH ST",
+        "Suite": null,
+        "PermitType": "MECHANICAL COMM. $100,001-$150,000",
+        "ConstructionCost": 150000.0,
+        "OwnerName": "CATHOLIC DIOCESE OF LEXINGTON",
+        "Contractor": "TOTAL COMFORT CORP",
+        "parcel_id": "10042330",
+        "lat": -84.4959266933524,
+        "long": 38.0565748253903,
+        "title": "MECHANICAL COMM. $100,001-$150,000 building permit filed at 485 W FOURTH ST by TOTAL COMFORT CORP"
+      }
+    },
+    {
+      "id": 180931,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5226399090979,
+          37.9920805868265
+        ]
+      },
+      "properties": {
+        "ID": 180931,
+        "Date": "2014-02-19",
+        "Address": "3270 NICHOLASVILLE RD",
+        "Suite": null,
+        "PermitType": "SIGNS",
+        "ConstructionCost": 17000.0,
+        "OwnerName": "LAMAR ADVERTISING",
+        "Contractor": "LAMAR ADVERTISING",
+        "parcel_id": "11454201",
+        "lat": -84.5226399090979,
+        "long": 37.9920805868265,
+        "title": "SIGNS building permit filed at 3270 NICHOLASVILLE RD by LAMAR ADVERTISING"
+      }
+    },
+    {
+      "id": 180869,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5187231474049,
+          38.0361628082879
+        ]
+      },
+      "properties": {
+        "ID": 180869,
+        "Date": "2014-02-19",
+        "Address": "1112 S BROADWAY",
+        "Suite": null,
+        "PermitType": "GEN. BUSINESS OFFICE, OFFICE BLDG.",
+        "ConstructionCost": 350086.85,
+        "OwnerName": "GENERAL ENTERPRISES INC.",
+        "Contractor": "CHURCHILL MCGEE LLC",
+        "parcel_id": "46317900",
+        "lat": -84.5187231474049,
+        "long": 38.0361628082879,
+        "title": "GEN. BUSINESS OFFICE, OFFICE BLDG. building permit filed at 1112 S BROADWAY by CHURCHILL MCGEE LLC"
+      }
+    },
+    {
+      "id": 180660,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.554913831018,
+          38.0667660409103
+        ]
+      },
+      "properties": {
+        "ID": 180660,
+        "Date": "2014-02-19",
+        "Address": "708 MILES POINT WAY",
+        "Suite": null,
+        "PermitType": "MECHANICAL COMM. $75,001-$100,000",
+        "ConstructionCost": 83175.0,
+        "OwnerName": "KINEMETRIX",
+        "Contractor": "TOTAL COMFORT CORP",
+        "parcel_id": "38247520",
+        "lat": -84.554913831018,
+        "long": 38.0667660409103,
+        "title": "MECHANICAL COMM. $75,001-$100,000 building permit filed at 708 MILES POINT WAY by TOTAL COMFORT CORP"
+      }
+    },
+    {
+      "id": 180906,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4218621919681,
+          38.0216028660337
+        ]
+      },
+      "properties": {
+        "ID": 180906,
+        "Date": "2014-02-18",
+        "Address": "1895 VENDOR WAY",
+        "Suite": "STE 110",
+        "PermitType": "MECHANICAL COMM. $10,001-$25,000",
+        "ConstructionCost": 20437.0,
+        "OwnerName": "SHERWIN WILLIAMS",
+        "Contractor": "THORNBERRY BROS INC",
+        "parcel_id": "38104040",
+        "lat": -84.4218621919681,
+        "long": 38.0216028660337,
+        "title": "MECHANICAL COMM. $10,001-$25,000 building permit filed at 1895 VENDOR WAY by THORNBERRY BROS INC"
+      }
+    },
+    {
+      "id": 180647,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4926914549719,
+          38.0360438426455
+        ]
+      },
+      "properties": {
+        "ID": 180647,
+        "Date": "2014-02-12",
+        "Address": "518 E HIGH ST",
+        "Suite": null,
+        "PermitType": "REMODELING RECREATIONAL FACILITY",
+        "ConstructionCost": 30000.0,
+        "OwnerName": "SOURCE ON HIGH",
+        "Contractor": "SOURCE ON HIGH",
+        "parcel_id": "10130452",
+        "lat": -84.4926914549719,
+        "long": 38.0360438426455,
+        "title": "REMODELING RECREATIONAL FACILITY building permit filed at 518 E HIGH ST by SOURCE ON HIGH"
+      }
+    },
+    {
+      "id": 180818,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4224311020241,
+          38.0461697175847
+        ]
+      },
+      "properties": {
+        "ID": 180818,
+        "Date": "2014-02-12",
+        "Address": "2400 BUENA VISTA RD",
+        "Suite": null,
+        "PermitType": "MECHANICAL COMM. $2,001-$10,000",
+        "ConstructionCost": 6000.0,
+        "OwnerName": "RAINMAKER HOLDINGS",
+        "Contractor": "BLUEGRASS CLIMATE SOLUTIONS, INC",
+        "parcel_id": "20064250",
+        "lat": -84.4224311020241,
+        "long": 38.0461697175847,
+        "title": "MECHANICAL COMM. $2,001-$10,000 building permit filed at 2400 BUENA VISTA RD by BLUEGRASS CLIMATE SOLUTIONS, INC"
+      }
+    },
+    {
+      "id": 180944,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4593619542573,
+          38.0430311507014
+        ]
+      },
+      "properties": {
+        "ID": 180944,
+        "Date": "2014-02-11",
+        "Address": "1213 WINCHESTER RD",
+        "Suite": null,
+        "PermitType": "SIGNS",
+        "ConstructionCost": 20400.0,
+        "OwnerName": "KEN TOWERY",
+        "Contractor": "COMMONWEALTH SIGN CO INC",
+        "parcel_id": "38073150",
+        "lat": -84.4593619542573,
+        "long": 38.0430311507014,
+        "title": "SIGNS building permit filed at 1213 WINCHESTER RD by COMMONWEALTH SIGN CO INC"
+      }
+    },
+    {
+      "id": 180924,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4844007268254,
+          38.0370531477182
+        ]
+      },
+      "properties": {
+        "ID": 180924,
+        "Date": "2014-02-11",
+        "Address": "704 BULLOCK PL",
+        "Suite": null,
+        "PermitType": "APARTMENT, REMODELING",
+        "ConstructionCost": 100000.0,
+        "OwnerName": "CHRISTIAN ERICKSON",
+        "Contractor": "CHRISTIAN ERICKSON",
+        "parcel_id": "13846890",
+        "lat": -84.4844007268254,
+        "long": 38.0370531477182,
+        "title": "APARTMENT, REMODELING building permit filed at 704 BULLOCK PL by CHRISTIAN ERICKSON"
+      }
+    }
+  ]
+}
