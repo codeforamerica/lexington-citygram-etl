@@ -10,6 +10,7 @@ class Generate
     features = cases.order(:Date).reverse().limit(50).all.map do |item|
       title = "#{item[:PermitType]} building permit filed at #{item[:Address]} by #{item[:Contractor]}"
       {
+        'id' => item[:ID],
         'type' => 'Feature',
         'geometry' => {
           'type' => 'Point',
@@ -32,6 +33,7 @@ class Generate
     features = cases.order(:StatusDate).reverse().limit(50).all.map do |item|
       title = "Code Enforcement case status updated to '#{item[:Status]}'"
       {
+        'id' => item[:CaseNo],
         'type' => 'Feature',
         'geometry' => {
           'type' => 'Point',
