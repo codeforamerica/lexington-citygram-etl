@@ -1,3 +1,6 @@
 CaseNo,CaseYr,Address,DateOpened,CaseType,Status,StatusDate,Closed
 123,2014,400 N Limestone,08-20-2014,Nuisance,Open,08-21-2014,false
 456,2014,400 N Limestone,08-20-2014,Nuisance,Open,08-21-2014,false
+789,2014,400 Spur Road, 08-20-2014,Nuisance,Open,08-21-2014,false
+321,2014,400 N Limestone,08-20-2014,Nuisance,Open,08-21-2014,false
+654,2014,400 N Limestone,08-20-2014,Nuisance,Open,08-21-2014,false
