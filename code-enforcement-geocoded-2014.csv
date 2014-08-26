@@ -1,6 +1,3 @@
-CaseNo,CaseYr,Address,DateOpened,CaseType,Status,StatusDate,Closed,parcel_id,lat,long
-123,2014,400 N Limestone,08-20-2014,Nuisance,Open,08-21-2014,false,16603250,-84.4902175371203,38.050845589621
-456,2014,400 N Limestone,08-20-2014,Nuisance,Open,08-21-2014,false,16603250,-84.4902175371203,38.050845589621
-789,2014,400 Spur Road, 08-20-2014,Nuisance,Open,08-21-2014,false,40011100,-84.4695003007839,38.031651284164
-321,2014,400 N Limestone,08-20-2014,Nuisance,Open,08-21-2014,false,16603250,-84.4902175371203,38.050845589621
-654,2014,400 N Limestone,08-20-2014,Nuisance,Open,08-21-2014,false,16603250,-84.4902175371203,38.050845589621
+CaseNo,CaseYr,Address,DateOpened,CaseType,Status,StatusDate,Closed,parcelId
+12040846W7   ,2014           ,846 E LOUDON ,01-03-2014,Housing ,Invalid Complaint             ,01-06-2014,Y,21152400
+03270210#B   ,2014           ,210 CARLISLE ,01-03-2014,Housing ,Invalid Complaint             ,01-07-2014,Y,13136200
